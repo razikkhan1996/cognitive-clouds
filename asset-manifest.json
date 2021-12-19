@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/razikkhan1996/cognitive-clouds/static/css/main.bd95be47.chunk.css",
+    "main.js": "/razikkhan1996/cognitive-clouds/static/js/main.04e44a25.chunk.js",
+    "main.js.map": "/razikkhan1996/cognitive-clouds/static/js/main.04e44a25.chunk.js.map",
+    "runtime-main.js": "/razikkhan1996/cognitive-clouds/static/js/runtime-main.a33dd99a.js",
+    "runtime-main.js.map": "/razikkhan1996/cognitive-clouds/static/js/runtime-main.a33dd99a.js.map",
+    "static/js/2.a6c64cdc.chunk.js": "/razikkhan1996/cognitive-clouds/static/js/2.a6c64cdc.chunk.js",
+    "static/js/2.a6c64cdc.chunk.js.map": "/razikkhan1996/cognitive-clouds/static/js/2.a6c64cdc.chunk.js.map",
+    "index.html": "/razikkhan1996/cognitive-clouds/index.html",
+    "static/css/main.bd95be47.chunk.css.map": "/razikkhan1996/cognitive-clouds/static/css/main.bd95be47.chunk.css.map",
+    "static/js/2.a6c64cdc.chunk.js.LICENSE.txt": "/razikkhan1996/cognitive-clouds/static/js/2.a6c64cdc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a33dd99a.js",
+    "static/js/2.a6c64cdc.chunk.js",
+    "static/css/main.bd95be47.chunk.css",
+    "static/js/main.04e44a25.chunk.js"
+  ]
+}
